@@ -1,0 +1,30 @@
+
+    button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+    #buttons-view{
+      background-color: red;
+    }
+    #movie-form{
+      background-color:green;
+    }
+    .add-movie{
+      background-color:white;
+      margin-left:5px;
+    }
+    h1{
+      background-color: green;
+      margin-left:10px;
+      width:280px;
+      color: white;
+    }
+    .movie-btn{
+      font-weight: bold;
+    }
+    form, .add-movie-btn1{
+      font-weight: bold;
+    }
